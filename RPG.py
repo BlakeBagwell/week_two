@@ -1,3 +1,4 @@
+import random
 
 class Character(object):
     def __init__(self, name, health, power):
@@ -21,6 +22,7 @@ class Character(object):
 
     def __repr__(self):
         return self.name
+
 
 hero = Character('Hero', 10, 5)
 goblin = Character('Goblin', 6, 2)
@@ -47,17 +49,18 @@ def game():
             print "The goblin makes a quick stab while you aren't paying attention."
             goblin.attack(hero)
         elif input == "3":
-            print "Goodbye."
             break
         else:
             print "Invalid input %r" % input
 
-    if hero.life_check():
+    if hero.life_check() and goblin.life_check():
+        print "You flee like a coward!"
+    elif hero.life_check():
         print "You have slayed the goblin!"
     elif goblin.life_check():
         print "You have died!"
-    else:
-        print "You flee in terror like a coward!"
+    elif hero.life_check() == goblin. life_check():
+        print "You both die."
 
 
 game()
