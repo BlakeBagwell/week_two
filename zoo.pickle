@@ -1,0 +1,384 @@
+(dp0
+S'lola'
+p1
+ccopy_reg
+_reconstructor
+p2
+(c__main__
+Creature
+p3
+c__builtin__
+object
+p4
+Ntp5
+Rp6
+(dp7
+S'hindlegs'
+p8
+S'claws'
+p9
+sS'forelegs'
+p10
+g9
+sS'eyes'
+p11
+S'three eyes'
+p12
+sS'dwelling'
+p13
+S'aquatic'
+p14
+sS'bodylen'
+p15
+S'long body'
+p16
+sS'covering'
+p17
+S'scales'
+p18
+sS'movement'
+p19
+S'rapidly'
+p20
+sS'necklen'
+p21
+S'long neck'
+p22
+sS'tail'
+p23
+S'no tail'
+p24
+sS'nose'
+p25
+S'flat nose'
+p26
+sS'qualities'
+p27
+S'alert'
+p28
+sS'size'
+p29
+S'normal'
+p30
+sS'ears'
+p31
+S'long ears'
+p32
+sbsS'hero'
+p33
+g2
+(g3
+g4
+Ntp34
+Rp35
+(dp36
+g8
+S'claws'
+p37
+sg10
+g37
+sg11
+S'four eyes'
+p38
+sg13
+S'arboreal'
+p39
+sg15
+S'short body'
+p40
+sg17
+S'skin'
+p41
+sg19
+S'rapidly'
+p42
+sg21
+S'long neck'
+p43
+sg23
+S'long tail'
+p44
+sg25
+S'long nose'
+p45
+sg27
+S'agile'
+p46
+sg29
+S'tiny'
+p47
+sg31
+S'small ears'
+p48
+sbsS'Stranger'
+p49
+g2
+(g3
+g4
+Ntp50
+Rp51
+(dp52
+g8
+S'claws'
+p53
+sg10
+g53
+sg11
+S'five eyes'
+p54
+sg13
+S'domesticated'
+p55
+sg15
+S'snakelike body'
+p56
+sg17
+S'scales'
+p57
+sg19
+S'normally'
+p58
+sg21
+S'short neck'
+p59
+sg23
+S'short tail'
+p60
+sg25
+S'short nose'
+p61
+sg27
+S'agile'
+p62
+sg29
+S'normal'
+p63
+sg31
+S'long ears'
+p64
+sbsS'James'
+p65
+g2
+(g3
+g4
+Ntp66
+Rp67
+(dp68
+g8
+S'hoves'
+p69
+sg10
+S'hands'
+p70
+sg11
+S'four eyes'
+p71
+sg13
+S'domesticated'
+p72
+sg15
+S'snakelike body'
+p73
+sg17
+S'scales'
+p74
+sg19
+S'rapidly'
+p75
+sg21
+S'medium neck'
+p76
+sg23
+S'long tail'
+p77
+sg25
+S'long nose'
+p78
+sg27
+S'agile'
+p79
+sg29
+S'huge'
+p80
+sg31
+S'large ears'
+p81
+sbsS'dog'
+p82
+g2
+(g3
+g4
+Ntp83
+Rp84
+(dp85
+g8
+S'hands'
+p86
+sg10
+g9
+sg11
+S'four eyes'
+p87
+sg13
+g14
+sg15
+g16
+sg17
+S'fur'
+p88
+sg19
+S'quickly'
+p89
+sg21
+g22
+sg23
+S'short tail'
+p90
+sg25
+S'short nose'
+p91
+sg27
+S'agile'
+p92
+sg29
+S'tiny'
+p93
+sg31
+S'large ears'
+p94
+sbsS's'
+p95
+g2
+(g3
+g4
+Ntp96
+Rp97
+(dp98
+g8
+S'hands'
+p99
+sg10
+g99
+sg11
+S'four eyes'
+p100
+sg13
+S'aquatic'
+p101
+sg15
+S'medium body'
+p102
+sg17
+S'feathers'
+p103
+sg19
+S'rapidly'
+p104
+sg21
+S'neckless neck'
+p105
+sg23
+S'no tail'
+p106
+sg25
+S'short nose'
+p107
+sg27
+S'agile'
+p108
+sg29
+S'tiny'
+p109
+sg31
+S'small ears'
+p110
+sbsS'y'
+p111
+g2
+(g3
+g4
+Ntp112
+Rp113
+(dp114
+g8
+S'hands'
+p115
+sg10
+g115
+sg11
+S'five eyes'
+p116
+sg13
+S'aquatic'
+p117
+sg15
+S'snakelike body'
+p118
+sg17
+S'feathers'
+p119
+sg19
+S'quickly'
+p120
+sg21
+S'medium neck'
+p121
+sg23
+S'medium tail'
+p122
+sg25
+S'long nose'
+p123
+sg27
+S'curious'
+p124
+sg29
+S'normal'
+p125
+sg31
+S'earholes'
+p126
+sbsS'creature'
+p127
+g2
+(g3
+g4
+Ntp128
+Rp129
+(dp130
+g8
+g53
+sg10
+S'hands'
+p131
+sg11
+S'three eyes'
+p132
+sg13
+S'cavedwelling'
+p133
+sg15
+S'short body'
+p134
+sg17
+S'feathers'
+p135
+sg19
+S'quickly'
+p136
+sg21
+g59
+sg23
+S'medium tail'
+p137
+sg25
+S'flat nose'
+p138
+sg27
+g62
+sg29
+S'huge'
+p139
+sg31
+g64
+sbs.
