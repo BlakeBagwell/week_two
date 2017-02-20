@@ -246,7 +246,7 @@ p93
 sg31
 S'large ears'
 p94
-sbsS's'
+sbsS'creature'
 p95
 g2
 (g3
@@ -255,130 +255,38 @@ Ntp96
 Rp97
 (dp98
 g8
+g53
+sg10
 S'hands'
 p99
-sg10
-g99
 sg11
-S'four eyes'
+S'three eyes'
 p100
 sg13
-S'aquatic'
+S'cavedwelling'
 p101
 sg15
-S'medium body'
+S'short body'
 p102
 sg17
 S'feathers'
 p103
 sg19
-S'rapidly'
+S'quickly'
 p104
-sg21
-S'neckless neck'
-p105
-sg23
-S'no tail'
-p106
-sg25
-S'short nose'
-p107
-sg27
-S'agile'
-p108
-sg29
-S'tiny'
-p109
-sg31
-S'small ears'
-p110
-sbsS'y'
-p111
-g2
-(g3
-g4
-Ntp112
-Rp113
-(dp114
-g8
-S'hands'
-p115
-sg10
-g115
-sg11
-S'five eyes'
-p116
-sg13
-S'aquatic'
-p117
-sg15
-S'snakelike body'
-p118
-sg17
-S'feathers'
-p119
-sg19
-S'quickly'
-p120
-sg21
-S'medium neck'
-p121
-sg23
-S'medium tail'
-p122
-sg25
-S'long nose'
-p123
-sg27
-S'curious'
-p124
-sg29
-S'normal'
-p125
-sg31
-S'earholes'
-p126
-sbsS'creature'
-p127
-g2
-(g3
-g4
-Ntp128
-Rp129
-(dp130
-g8
-g53
-sg10
-S'hands'
-p131
-sg11
-S'three eyes'
-p132
-sg13
-S'cavedwelling'
-p133
-sg15
-S'short body'
-p134
-sg17
-S'feathers'
-p135
-sg19
-S'quickly'
-p136
 sg21
 g59
 sg23
 S'medium tail'
-p137
+p105
 sg25
 S'flat nose'
-p138
+p106
 sg27
 g62
 sg29
 S'huge'
-p139
+p107
 sg31
 g64
 sbs.

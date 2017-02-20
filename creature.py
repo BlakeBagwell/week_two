@@ -82,8 +82,6 @@ def main():
         animal = Creature()
         creature_name = raw_input("What would you like to call your new creature?")
         zoo[creature_name] = animal
-        user_input = raw_input('Are you sure you want to play god? (y/n)')
-        if user_input == 'y':
             animal.generate()
             print "Forming skeleton"
             time.sleep(1.0)
@@ -106,7 +104,7 @@ def main():
         if raw_input("Would you like to keep creating? (y/n)") == 'y':
             pass
         else:
-            print "God will punish you for your sins"
+            print "Goodbye"
             #saves files
             myfile = open('zoo.pickle', 'w')
             pickle.dump(zoo, myfile)
