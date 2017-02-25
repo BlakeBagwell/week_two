@@ -75,8 +75,7 @@ while True:
         myfile.close
 
     elif user_input == 6:
-        myfile = open('phonebook.pickle', 'r')
-        phonebook = pickle.load(myfile)
+
         print "ENTRIES LOADED"
 
     elif user_input == 7:
