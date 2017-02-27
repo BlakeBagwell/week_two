@@ -128,7 +128,6 @@ def main():
                 name = raw_input("What creature would you like to examine?: ")
                 for creature in zoo:
                     print creature
-                    creature.show_creature()
 
                 print "I'm broken"
                 break
